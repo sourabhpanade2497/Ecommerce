@@ -1,0 +1,249 @@
+.choose-your-delivery {
+    position: absolute;
+    top: 235px;
+    left: 79px;
+    font-size: var(--title-desktop-size);
+    font-weight: 600;
+    display: inline-block;
+    width: 447px;
+    height: 38px;
+}
+
+.group-child14 {
+    position: absolute;
+    top: 0;
+    left: 25px;
+    width: 66px;
+    height: 66px;
+}
+
+.basic-details3 {
+    position: absolute;
+    top: 82px;
+    left: 0;
+    font-weight: 500;
+}
+
+.group-parent5 {
+    position: absolute;
+    top: 76px;
+    left: 111px;
+    width: 116px;
+    height: 109px;
+    color: var(--color-dodgerblue);
+}
+
+.group-child15 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 66px;
+    height: 66px;
+}
+
+.address1,
+.group-parent6 {
+    position: absolute;
+    top: 76px;
+}
+
+.address1 {
+    left: 0;
+    font-weight: 500;
+}
+
+.group-parent6 {
+    left: 389px;
+    width: 75px;
+    height: 103px;
+    color: var(--color-dodgerblue);
+}
+
+.group-child16,
+.group-parent7 {
+    position: absolute;
+    top: 0;
+    left: 8px;
+    width: 66px;
+    height: 66px;
+}
+
+.group-parent7 {
+    top: 76px;
+    left: 626px;
+    width: 82px;
+    height: 103px;
+    color: #a3a6ab;
+}
+
+.group-parent8 {
+    left: 870px;
+    width: 74px;
+    height: 103px;
+    color: var(--color-dimgray-100);
+}
+
+.done1,
+.group-parent8,
+.group-parent9 {
+    position: absolute;
+    top: 76px;
+}
+
+.done1 {
+    left: 8px;
+    font-weight: 500;
+}
+
+.group-parent9 {
+    left: 1106px;
+    width: 66px;
+    height: 103px;
+    color: var(--color-dimgray-100);
+}
+
+.delivery-address-child {
+    position: absolute;
+    top: 107px;
+    left: 219px;
+    width: 398px;
+    height: 1px;
+}
+
+.delivery-address-inner,
+.delivery-address-item {
+    position: absolute;
+    top: 104.5px;
+    left: 704px;
+    width: 398px;
+    height: 1px;
+}
+
+.delivery-address-inner {
+    top: 302px;
+    left: 51px;
+    width: 1233px;
+}
+
+.home-current,
+.office {
+    position: absolute;
+    top: 363px;
+    left: 199.34px;
+    font-size: var(--font-size-10xl);
+    font-weight: 600;
+    display: inline-block;
+    width: 210.58px;
+    height: 26.48px;
+}
+
+.office {
+    top: 514px;
+    width: 52.32px;
+}
+
+.house-icon,
+.house-icon1 {
+    position: absolute;
+    top: 366.23px;
+    left: 158px;
+    width: 20.67px;
+    height: 20.67px;
+}
+
+.house-icon1 {
+    top: 517.23px;
+}
+
+.lorem-ipsum-dolor {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.lorem-ipsum-dolor-container,
+.lorem-ipsum-dolor-container1 {
+    position: absolute;
+    top: 406.28px;
+    left: 159.94px;
+    font-size: var(--font-size-3xl);
+    font-weight: 500;
+    display: inline-block;
+    width: 441.19px;
+    height: 61.37px;
+}
+
+.lorem-ipsum-dolor-container1 {
+    top: 557.28px;
+}
+
+.group-child19 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-xs);
+    background-color: var(--color-dodgerblue);
+    width: 359px;
+    height: 72px;
+}
+
+.next1 {
+    position: absolute;
+    top: 10px;
+    left: 142px;
+    font-weight: 500;
+    display: inline-block;
+    width: 75.56px;
+}
+
+.rectangle-parent5 {
+    position: absolute;
+    top: 495px;
+    left: 870px;
+    width: 359px;
+    height: 72px;
+    font-size: var(--font-size-29xl);
+    color: var(--color-white);
+}
+
+.delivery-address-child1,
+.delivery-address-child2 {
+    position: absolute;
+    top: 386px;
+    left: 72px;
+    width: 39px;
+    height: 39px;
+}
+
+.delivery-address-child2 {
+    top: 538px;
+    opacity: 0.6;
+}
+
+.delivery-address-child3 {
+    position: absolute;
+    top: 397px;
+    left: 83px;
+    width: 17px;
+    height: 17px;
+}
+
+.manage-address1 {
+    position: absolute;
+    top: 595px;
+    left: 977px;
+    font-size: var(--font-size-21xl);
+    font-weight: 500;
+    color: #333;
+}
+
+.delivery-address {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 688px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--sub-title-desktop-size);
+    color: var(--second-hover);
+    font-family: var(--title-mobile);
+}

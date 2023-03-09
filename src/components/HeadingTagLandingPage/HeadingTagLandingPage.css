@@ -1,0 +1,27 @@
+.heading-tag-landing-page-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient( 55.02deg, #5acff9, #38b1f4 15.63%, #5bc3fc 31.77%, #23a3ff 65.35%, #2489d2 80.05%, #2985c7 99.39%);
+    width: 11626px;
+    height: 681px;
+}
+
+.user-e-commerce {
+    position: absolute;
+    top: 153px;
+    left: 227px;
+    font-weight: 600;
+    display: inline-block;
+    width: 2815px;
+}
+
+.heading-tag-landing-page {
+    position: relative;
+    width: 100%;
+    height: 681px;
+    text-align: left;
+    font-size: 250px;
+    color: #fff;
+    font-family: Poppins;
+}

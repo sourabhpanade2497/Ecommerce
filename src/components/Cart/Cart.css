@@ -1,0 +1,154 @@
+.continue-shoping,
+.your-bag {
+    position: absolute;
+    font-weight: 600;
+}
+
+.your-bag {
+    top: 54px;
+    left: 65px;
+    font-size: var(--font-size-33xl);
+    display: inline-block;
+    width: 232.88px;
+    height: 77px;
+}
+
+.continue-shoping {
+    top: 0;
+    left: 0;
+}
+
+.cart-inner,
+.continue-shoping-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 247px;
+    height: 41px;
+}
+
+.cart-inner {
+    top: 733px;
+    left: 537px;
+    color: var(--color-dodgerblue);
+}
+
+.please-fill-me {
+    font-weight: 600;
+    display: inline-block;
+}
+
+.cart-child,
+.please-fill-me,
+.please-fill-me-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 524.51px;
+    height: 85px;
+}
+
+.cart-child {
+    top: 519px;
+    left: 394px;
+    text-align: center;
+    font-size: var(--font-size-34xl);
+}
+
+.group-child14 {
+    position: absolute;
+    top: -4.04px;
+    left: -2.59px;
+    border-radius: 4.04px;
+    width: 227.29px;
+    height: 224.08px;
+}
+
+.group-child15,
+.group-child16,
+.group-child17 {
+    position: absolute;
+    top: 110px;
+    left: 63px;
+    width: 23.87px;
+    height: 34px;
+}
+
+.group-child16,
+.group-child17 {
+    left: 126px;
+}
+
+.group-child17 {
+    top: 154px;
+    left: 94px;
+    width: 23px;
+    height: 1px;
+}
+
+.group-child18,
+.group-child19,
+.group-child20 {
+    position: absolute;
+    top: 128px;
+    left: 75px;
+    width: 8px;
+    height: 12px;
+}
+
+.group-child19,
+.group-child20 {
+    top: 127px;
+    left: 130px;
+}
+
+.group-child20 {
+    top: 49px;
+    left: 165px;
+    width: 95px;
+    height: 95px;
+}
+
+.div1,
+.order {
+    position: absolute;
+    top: 74px;
+    left: 204px;
+    font-weight: 600;
+}
+
+.order {
+    top: 106px;
+    left: 202px;
+    font-size: 7.9px;
+    display: inline-block;
+    width: 22.83px;
+}
+
+.vector-group {
+    position: absolute;
+    top: 263px;
+    left: 531px;
+    width: 260px;
+    height: 216px;
+}
+
+.it-looks-like {
+    position: absolute;
+    top: 613px;
+    left: 419px;
+    font-size: var(--title-mobile-size);
+    text-align: center;
+}
+
+.cart {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--title-desktop-size);
+    color: var(--second-hover);
+    font-family: var(--title-mobile);
+}
